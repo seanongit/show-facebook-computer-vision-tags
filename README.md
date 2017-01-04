@@ -2,7 +2,7 @@
 
 *Want to try this? See instructions at the end*
 
-*Note: this is a port of the original Chrome extension by ageitgey(https://github.com/ageitgey/show-facebook-computer-vision-tags). Port was done using the [Microsoft Edge Extension toolkit](https://www.microsoft.com/en-us/store/p/microsoft-edge-extension-toolkit/9nblggh4txvb).*
+*Note: this is a port of the original Chrome extension by [ageitgey](https://github.com/ageitgey/show-facebook-computer-vision-tags). Port was done using the [Microsoft Edge Extension toolkit](https://www.microsoft.com/en-us/store/p/microsoft-edge-extension-toolkit/9nblggh4txvb).*
 
 
 ![](https://cloud.githubusercontent.com/assets/896692/21574672/fa4cecb4-ceab-11e6-896c-101025c68dc3.png)
