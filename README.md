@@ -1,6 +1,9 @@
-# Show Facebook Computer Vision Tags Chrome Extension
+# Show Facebook Computer Vision Tags -- Edge Extension port
 
-*Want to try this? [Install it from the Chrome Web Store](https://chrome.google.com/webstore/detail/show-facebook-computer-vi/elafbihhbfmfihdflghclaclcilcnmie?hl=en-US&gl=US) or the [Firefox Add-ons website](https://addons.mozilla.org/en-US/firefox/addon/show-computer-vision-tags/)*
+*Want to try this? See instructions at the end*
+
+*Note: this is a port of the original Chrome extension by ageitgey(https://github.com/ageitgey/show-facebook-computer-vision-tags). Port was done using the [Microsoft Edge Extension toolkit](https://www.microsoft.com/en-us/store/p/microsoft-edge-extension-toolkit/9nblggh4txvb).*
+
 
 ![](https://cloud.githubusercontent.com/assets/896692/21574672/fa4cecb4-ceab-11e6-896c-101025c68dc3.png)
 
@@ -56,20 +59,25 @@ It's even possible to tell which kind of sporting event you are attending.
 
 These are just a few examples. See what kinds of things Facebook has found in your own photos!
 
-# Installing this Chrome Extension
+# Installing this Edge Extension
 
-Option 1: From the Chrome Web Store
+From Source
+
+1. Clone this repo so you have a copy in a folder locally.
+1. Open `about:flags` in the address bar 
+1. Check `Enable extension developer features`.
+1. Click on the Actions menu (...) and click on Extensions
+1. Click on the button labelled `Load extension...`.
+1. Select the directory where you cloned this repo to.
+1. Visit Facebook!
+
+
+#Installing the Chrome extension 
+
+ From the Chrome Web Store
 
 1. [Click here and choose "+ Add to Chrome"](https://chrome.google.com/webstore/detail/show-facebook-computer-vi/elafbihhbfmfihdflghclaclcilcnmie?hl=en-US&gl=US)
 
-Option 2: From Source
-
-1. Clone this repo so you have a copy in a folder locally.
-1. Open `chrome://extensions` in the location or go to `Tools` > `Extensions`
-1. Enable `Developer mode` by checking the checkbox in the upper-right corner.
-1. Click on the button labelled `Load unpacked extension...`.
-1. Select the directory where you cloned this repo to.
-1. Visit Facebook!
 
 # Installing in Firefox
 
